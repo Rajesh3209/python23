@@ -1,5 +1,6 @@
 print("THIS IS FIRST COMMAND")
-a=5
-b=6
-c=7
-d=a+b-c
+a=20
+b=60
+c=70
+d=a+b*c
+
