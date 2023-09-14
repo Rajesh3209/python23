@@ -3,4 +3,5 @@ a=20
 b=60
 c=70
 d=a+b*c
+print("sum of the three values",d)
 
