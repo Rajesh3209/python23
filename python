@@ -1,4 +1,5 @@
-a=20
-b=60
+a=10
+b=20
 c=a+b
-print("sum of the three values",c)
+print("sum of the three values are"c)
+
