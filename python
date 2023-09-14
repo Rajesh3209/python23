@@ -1,7 +1,4 @@
-print("THIS IS FIRST COMMAND")
 a=20
 b=60
-c=70
-d=a+b*c
-print("sum of the three values",d)
-
+c=a+b
+print("sum of the three values",c)
